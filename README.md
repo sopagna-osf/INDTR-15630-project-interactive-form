@@ -15,8 +15,8 @@ Use this method to validate the form
 	 ```
 	 const option = {
 		 'fieldName': {
-				 'validatioMethod': 'errorText',
-				 ['when': ()=>{}]
+			'validatioMethod': 'errorText',
+			['when': ()=>{}]
 		 }
 	 }
 	```
